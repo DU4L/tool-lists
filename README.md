@@ -7,6 +7,9 @@ Here you can find some useful tools to solve a CTF. Feel free to add some tools!
 1. [Forensic](#forensic)
 2. [Misc](#misc)
 3. [Crypto](#crypto)
+4. [Reverse](#reverse)
+5. [OSINT](#osint)
+
 
 ## Forensic
 
@@ -40,8 +43,8 @@ Whatever happen, google is your friend. There are a lot cryptography tools onlin
 
 
 <details><summary><b>Classic cipher / Simple decoder online tool:</b></summary>
-- https://quipqiup.com - quipqiup is a fast and automated cryptogram solver
-- https://www.base64decode.org/ - base64 decoder
+- [quipqiup](https://quipqiup.com) - quipqiup is a fast and automated cryptogram solver
+- [base64decode](https://www.base64decode.org/) - base64 decoder
 - https://www.urldecoder.org/ - URL decoder
 - https://emn178.github.io/online-tools/base32_decode.html -  Base32 decoder
 - https://cryptii.com/ - All in one tool

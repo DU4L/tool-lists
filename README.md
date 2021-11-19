@@ -40,18 +40,18 @@ Whatever happen, google is your friend. There are a lot cryptography tools onlin
 
 
 <details><summary><b>Classic cipher / Simple decoder online tool:</b></summary>
-    - https://quipqiup.com - quipqiup is a fast and automated cryptogram solver
-    - https://www.base64decode.org/ - base64 decoder
-    - https://www.urldecoder.org/ - URL decoder
-    - https://emn178.github.io/online-tools/base32_decode.html -  Base32 decoder
-    - https://cryptii.com/ - All in one tool
-    - https://www.guballa.de/substitution-solver - Substitution solver
-    - https://www.guballa.de/vigenere-solver - Vigenere solver
-    - https://rot13.com/ - Rot 1 - 25 decryptor
-    - https://www.dcode.fr -  All in one tool
-    - http://rumkin.com/tools/cipher/ -  All in one tool
-    - http://www.unit-conversion.info/texttools/morse-code/ - Morse code decoder
-    - https://cryptii.com/pipes/ascii85-encoding - ASCII85 decoder
+- https://quipqiup.com - quipqiup is a fast and automated cryptogram solver
+- https://www.base64decode.org/ - base64 decoder
+- https://www.urldecoder.org/ - URL decoder
+- https://emn178.github.io/online-tools/base32_decode.html -  Base32 decoder
+- https://cryptii.com/ - All in one tool
+- https://www.guballa.de/substitution-solver - Substitution solver
+- https://www.guballa.de/vigenere-solver - Vigenere solver
+- https://rot13.com/ - Rot 1 - 25 decryptor
+- https://www.dcode.fr -  All in one tool
+- http://rumkin.com/tools/cipher/ -  All in one tool
+- http://www.unit-conversion.info/texttools/morse-code/ - Morse code decoder
+- https://cryptii.com/pipes/ascii85-encoding - ASCII85 decoder
 </details>
 
 
@@ -78,6 +78,25 @@ Cracking compressed file:
 
 ## Reverse
 
+- Ghidra: https://ghidra-sre.org/
+- GDB*: https://www.gnu.org/software/gdb/download/ 
+- GEF: https://github.com/hugsy/gef 
+- x64dbg: https://x64dbg.com/
+- pwntools: https://github.com/Gallopsled/pwntools
+- radare2*: https://github.com/radareorg/radare2
+- ApkTool: https://ibotpeaches.github.io/Apktool/
+- Fiddler: https://www.telerik.com/fiddler
+- Detect It Easy: https://github.com/horsicq/Detect-It-Easy
+
+
 ## OSINT
 
 ## Exploit
+
+- Burp Suite: https://portswigger.net/burp
+- Nmap: https://nmap.org/
+- Gobuster: https://github.com/OJ/gobuster
+- Exploit-db: https://www.exploit-db.com/
+- Metasploit: https://www.metasploit.com/
+- Hydra: https://github.com/vanhauser-thc/thc-hydra
+- Zed Attack Proxy: https://www.zaproxy.org/

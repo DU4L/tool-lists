@@ -43,18 +43,8 @@ Whatever happen, google is your friend. There are a lot cryptography tools onlin
 
 
 <details><summary><b>Classic cipher / Simple decoder online tool:</b></summary>
-- [quipqiup](https://quipqiup.com) | quipqiup is a fast and automated cryptogram solver
-- [base64decode](https://www.base64decode.org/) - base64 decoder
-- https://www.urldecoder.org/ | URL decoder
-- https://emn178.github.io/online-tools/base32_decode.html |  Base32 decoder
-- https://cryptii.com/ | All in one tool
-- https://www.guballa.de/substitution-solver | Substitution solver
-- https://www.guballa.de/vigenere-solver - Vigenere solver
-- https://rot13.com/ | Rot 1 to 25 decryptor
-- https://www.dcode.fr |  All in one tool
-- http://rumkin.com/tools/cipher/ |  All in one tool
-- http://www.unit-conversion.info/texttools/morse-code/ | Morse code decoder
-- https://cryptii.com/pipes/ascii85-encoding | ASCII85 decoder
+- hallo
+- welt
 </details>
 
 

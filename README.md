@@ -71,15 +71,38 @@ Cracking compressed file:
 
 ## Reverse
 
-- Ghidra: https://ghidra-sre.org/
-- GDB*: https://www.gnu.org/software/gdb/download/ 
-- GEF: https://github.com/hugsy/gef 
-- x64dbg: https://x64dbg.com/
-- pwntools: https://github.com/Gallopsled/pwntools
-- radare2*: https://github.com/radareorg/radare2
-- ApkTool: https://ibotpeaches.github.io/Apktool/
-- Fiddler: https://www.telerik.com/fiddler
-- Detect It Easy: https://github.com/horsicq/Detect-It-Easy
+### [Ghidra](https://ghidra-sre.org/)
+
+Ghidra is a Software Reverse Engineering (SER) Framework developed by the NSA. Features include a disassembler (binary data -> ASM), decompiler (ASM -> C), a debugger (with GDB) and a scripting interface.
+
+### [GDB](https://www.gnu.org/software/gdb/download/)
+
+The Gnu-Debugger is a debugger for Linux, allowing you to examine the program at runtime. With [GEF](https://github.com/hugsy/gef) (GDB Enhanced Features) you get a nicer output and easier command syntax.
+
+### [x64dbg](https://x64dbg.com/)
+
+A (spiritual) successor to the classic OllyDbg, allowing you to debug x86/x64 binaries on windows.
+
+### [pwntools](https://github.com/Gallopsled/pwntools)
+
+A very useful python package which makes exploit development quick and easy for CTFs.
+
+### [radare2](https://github.com/radareorg/radare2)
+
+A unix x86/x64 disassembler
+
+### [ApkTool](https://ibotpeaches.github.io/Apktool/)
+
+A tool for Android reverse engineering, can decompile an .apk file.
+
+
+### [Fiddler](https://www.telerik.com/fiddler)
+
+A network proxy allowing you to intercept HTTP(S) traffic and read it. This can be useful if you want to find out what API an Android App talks to, simply point your Android proxy to Fiddler and you will see all the traffic.
+
+### [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)
+
+A tool which helps you identify data about an executable, e.g. tools used for obfuscation and compiler and linker data.
 
 
 ## OSINT

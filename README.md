@@ -35,6 +35,47 @@ Sometimes important stuff is hidden in the metadata of the image or the file , e
 
 ## Crypto
 
+Whatever happen, google is your friend. There are a lot cryptography tools online. Some of good tool are made offline like OpenSSL.
+
+Classic cipher / Simple decoder online tool:
+
+<details><summary><b>Usefull commands</b></summary>
+- https://quipqiup.com - quipqiup is a fast and automated cryptogram solver
+- https://www.base64decode.org/ - base64 decoder
+- https://www.urldecoder.org/ - URL decoder
+- https://emn178.github.io/online-tools/base32_decode.html -  Base32 decoder
+- https://cryptii.com/ - All in one tool
+- https://www.guballa.de/substitution-solver - Substitution solver
+- https://www.guballa.de/vigenere-solver - Vigenere solver
+- https://rot13.com/ - Rot 1 - 25 decryptor
+- https://www.dcode.fr -  All in one tool
+- http://rumkin.com/tools/cipher/ -  All in one tool
+- http://www.unit-conversion.info/texttools/morse-code/ - Morse code decoder
+- https://cryptii.com/pipes/ascii85-encoding - ASCII85 decoder
+</details>
+
+Modern cryptography:
+
+<details><summary><b>Usefull commands</b></summary>
+- https://gchq.github.io/CyberChef/ - All in one tool
+- https://crackstation.net/ - Crack hash
+- Cryptool
+- John the Ripper 
+- Hashcat
+
+Cracking compressed file:
+- John the Ripper
+    ```sh
+    john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
+    ```
+- fcrackzip 
+    ```sh
+    fcrackzip -D -u -p rockyou.txt  filename.zip
+    ```
+- Hashcat 
+    
+</details>
+
 ## Reverse
 
 ## OSINT

@@ -19,8 +19,8 @@ Binwalk is a tool for searching binary files like images and audio files for emb
 
 <details><summary><b>Usefull commands</b></summary>
     ```sh
-    binwalk file        //Displays the embedded data in the given file 
-    binwalk -e file     //Displays and extracts the data from the given file
+    binwalk file        Displays the embedded data in the given file 
+    binwalk -e file     Displays and extracts the data from the given file
     ```
 </details>
 

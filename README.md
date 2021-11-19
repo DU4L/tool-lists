@@ -30,7 +30,7 @@ Sometimes important stuff is hidden in the metadata of the image or the file , e
 
 <details><summary><b>Usefull commands</b></summary>
     ```sh
-    exiftool "file"     //shows the metadata of the given file
+    exiftool "file"     shows the metadata of the given file
     ```
 </details>
 

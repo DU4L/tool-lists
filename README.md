@@ -1,6 +1,6 @@
 # Tool List
 
-Here you can find some useful tools to solve a CTF.
+Here you can find some useful tools to solve a CTF. Feel free to add some tools!
 
 ## Categories
 

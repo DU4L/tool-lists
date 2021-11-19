@@ -9,6 +9,8 @@ Here you can find some useful tools to solve a CTF. Feel free to add some tools!
 3. [Crypto](#crypto)
 4. [Reverse](#reverse)
 5. [OSINT](#osint)
+6. [Exploit](#exploit)
+7. [Other](#other)
 
 
 ## Forensic
@@ -16,23 +18,25 @@ Here you can find some useful tools to solve a CTF. Feel free to add some tools!
 ### Binwalk
 
 Binwalk is a tool for searching binary files like images and audio files for embedded files and data.
+```sh
+    binwalk file        //Displays the embedded data in the given file 
+    binwalk -e file     //Displays and extracts the data from the given file
+```
 
-<details><summary><b>Usefull commands</b></summary>
-    ```sh
-    binwalk file        Displays the embedded data in the given file 
-    binwalk -e file     Displays and extracts the data from the given file
-    ```
-</details>
+### WavstegPermalink
+WavSteg is a python3 tool that can hide data and files in wav files and can also extract data from wav files.
+```sh
+    python3 WavSteg.py -r -s soundfile -o outputfile
+```
 
 ### Exiftool
 
 Sometimes important stuff is hidden in the metadata of the image or the file , exiftool can be very helpful to view the metadata of the files.
 
-<details><summary><b>Usefull commands</b></summary>
-    ```sh
+```sh
     exiftool "file"     shows the metadata of the given file
-    ```
-</details>
+```
+
 
 ## Misc
 
@@ -41,15 +45,6 @@ Sometimes important stuff is hidden in the metadata of the image or the file , e
 Whatever happen, google is your friend. There are a lot cryptography tools online. Some of good tool are made offline like OpenSSL.
 
 
-
-<details><summary><b>Classic cipher / Simple decoder online tool:</b></summary>
-- hallo
-- welt
-</details>
-
-
-
-<details><summary><b>Modern cryptography:</b></summary>
 - https://gchq.github.io/CyberChef/ - All in one tool
 - https://crackstation.net/ - Crack hash
 - Cryptool
@@ -58,16 +53,15 @@ Whatever happen, google is your friend. There are a lot cryptography tools onlin
 
 Cracking compressed file:
 - John the Ripper
-    ```sh
+```sh
     john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
-    ```
+```
 - fcrackzip 
-    ```sh
+```sh
     fcrackzip -D -u -p rockyou.txt  filename.zip
-    ```
+```
 - Hashcat 
     
-</details>
 
 ## Reverse
 
@@ -116,3 +110,5 @@ A tool which helps you identify data about an executable, e.g. tools used for ob
 - Metasploit: https://www.metasploit.com/
 - Hydra: https://github.com/vanhauser-thc/thc-hydra
 - Zed Attack Proxy: https://www.zaproxy.org/
+
+## Other

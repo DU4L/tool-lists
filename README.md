@@ -42,7 +42,7 @@ Sometimes important stuff is hidden in the metadata of the image or the file , e
 
 ## Crypto
 
-Whatever happen, google is your friend. There are a lot cryptography tools online. Some of good tool are made offline like OpenSSL.
+Whatever happens, google is your friend. There are a lot cryptography tools online. Some of them are good tools some are made offline like OpenSSL.
 
 
 - https://gchq.github.io/CyberChef/ - All in one tool
@@ -100,6 +100,12 @@ A tool which helps you identify data about an executable, e.g. tools used for ob
 
 
 ## OSINT
+
+Find owner of websites or IP-Addres with who.is
+- Who.is: https://who.is
+
+Find every platform a user might be registered
+- Instant Username: https://instantusername.com
 
 ## Exploit
 

@@ -50,6 +50,7 @@ Whatever happens, google is your friend. There are a lot cryptography tools onli
 - Cryptool
 - John the Ripper 
 - Hashcat
+- https://github.com/danielmiessler/SecLists useful lists for cracking 6 enumeration
 
 Cracking compressed file:
 - John the Ripper

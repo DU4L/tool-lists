@@ -15,15 +15,19 @@ Here you can find some useful tools to solve a CTF. Feel free to add some tools!
 
 ## Web
 
-## OWASP favicon database
+### Wappalyzer
+
+[Wappalyzer](https://www.wappalyzer.com/) is a browser extension to identify web technologies utilized by a website.
+
+### OWASP favicon database
 
 The [OWASP favicon database](https://wiki.owasp.org/index.php/OWASP_favicon_database) can be used to identify common web platforms based on the MD5 hash of the favicon.
 
-## CRT.SH
+### CRT.SH
 
 [crt.sh](https://crt.sh/) contains a searchable database of various certificate transparency logs to find other certificates issues for the same domain or by the same organisation.
 
-## Sublist3r
+### Sublist3r
 
 [Sublister](https://github.com/aboul3la/Sublist3r) enumerates subdomains using various search engines.
 

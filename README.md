@@ -4,6 +4,7 @@ Here you can find some useful tools to solve a CTF. Feel free to add some tools!
 
 ## Categories
 
+0. [Web](#web)
 1. [Forensic](#forensic)
 2. [Misc](#misc)
 3. [Crypto](#crypto)
@@ -12,6 +13,19 @@ Here you can find some useful tools to solve a CTF. Feel free to add some tools!
 6. [Exploit](#exploit)
 7. [Other](#other)
 
+## Web
+
+## OWASP favicon database
+
+The [OWASP favicon database](https://wiki.owasp.org/index.php/OWASP_favicon_database) can be used to identify common web platforms based on the MD5 hash of the favicon.
+
+## CRT.SH
+
+[crt.sh](https://crt.sh/) contains a searchable database of various certificate transparency logs to find other certificates issues for the same domain or by the same organisation.
+
+## Sublist3r
+
+[Sublister](https://github.com/aboul3la/Sublist3r) enumerates subdomains using various search engines.
 
 ## Forensic
 
